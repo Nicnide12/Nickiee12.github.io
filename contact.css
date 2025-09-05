@@ -1,0 +1,51 @@
+
+h1 {color: #fae672;
+margin-left: 40px;}
+
+nav ul {
+            list-style: none;
+            padding: 0; float: right;
+            transform: translateY(-60px);
+            color: #faebd7;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size:larger ;
+        }
+header {background-color: #062633 ; padding-block: 10px; position:fixed; margin-right: 30;
+    top: 0; 
+    left: 10; 
+    width: 98.78%; height: 85px;
+    z-index: 1000; }
+        nav li {
+            display: inline;
+            margin-right: 40px ; margin-bottom: 10px; 
+        }
+        
+        #en-bas {background-color: #03141b ;
+            color: white ;  padding: 80px; height: 200px ; margin-bottom: 0px;
+        }
+        #apropos {
+            text-align: left; 
+        }
+        #contact {text-align: center;
+             transform: translateY(-200px);
+        }
+        #news {transform: translateY(-350px); 
+
+        }
+        #caseinput{ height: 25px;width: 250px ;margin-left: 900px ;}
+        #paragraphe{ margin-left: 950px ;}
+        #letter{ margin-left: 950px ;}
+        #paragraphe2 {margin-left: 900px ;}
+         #paragraphe3 {margin-left: 900px ;}
+        a{color: beige;}
+        #bouton-newsletter {background: #fae672 ; color: rgb(8, 8, 8); height: 30px;width: 200px ;margin-left: 925px ;font-family: Arial, Helvetica, sans-serif; font-size:medium;} 
+body{ background-color: white; height: 400px;}
+#contactemoi{margin-top: 350px; }
+#nom{ width: 200px; 
+  height: 30px ; }
+  #prenom{ width: 200px; 
+  height: 30px; }
+  #nomentre{width: 200px; 
+  height: 30px}
+  #email{width: 200px; 
+  height: 30px}
